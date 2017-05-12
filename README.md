@@ -1,2 +1,2 @@
-# CI-reports
-Repository for Travis CI reports
+# MegaCore CI-reports
+This branch contains Travis CI reports for [MegaCore](https://github.com/MCUdude/MegaCore)
